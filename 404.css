@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
 html {
     text-align: middle;
+    font-family: 'Zen Kurenaido', sans-serif;
 }
