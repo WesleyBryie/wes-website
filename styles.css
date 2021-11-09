@@ -1,5 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+.zenkaku {
+    @font-face { font-family: "Zen Kaku Gothic Antique"; src: url('fonts/zenkaku/ZenKakuGothicAntique-Regular.ttf'); } 
+}
 
-body {
-    font-family: 'Zen Kurenaido', sans-serif;
+.montserrat {
+    @font-face { font-family: Montserrat; src: url('fonts/montserrat/Montserrat-Regular.ttf'); }
 }
