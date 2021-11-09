@@ -1,3 +1,5 @@
+// created by Wesley Bryie
+
 // define creator info
 var creator = "Wesley Bryie";
 var domain = "wesbryie.cf"
