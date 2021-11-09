@@ -1,10 +1,4 @@
-.zenkaku {
-    @font-face { font-family: "Zen Kaku Gothic Antique"; src: url('fonts/zenkaku/ZenKakuGothicAntique-Regular.ttf'); } 
-}
-
-.montserrat {
-    @font-face { font-family: Montserrat; src: url('fonts/montserrat/Montserrat-Regular.ttf'); }
-}
+@font-face { font-family: Montserrat; src: url('fonts/montserrat/Montserrat-Regular.ttf'); }
 
 ul {
     list-style-type: none;
