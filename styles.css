@@ -5,3 +5,9 @@
 .montserrat {
     @font-face { font-family: Montserrat; src: url('fonts/montserrat/Montserrat-Regular.ttf'); }
 }
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
