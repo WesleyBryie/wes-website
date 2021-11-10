@@ -12,6 +12,10 @@
          url('fonts/montserrat.svg#Montserrat') format('svg'); /* Legacy iOS */
   }
 
+html {
+  font-family: Monserrat;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
