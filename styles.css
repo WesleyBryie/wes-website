@@ -43,8 +43,7 @@ ul {
 
   .column {
     float: left;
-    width: 25%;
-    border: 12px;
+    width: 33.33%;
   }
   
   /* Clear floats after the columns */
