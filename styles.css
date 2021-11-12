@@ -44,6 +44,7 @@ ul {
   .column {
     float: left;
     width: 33.33%;
+    background-color:#333;
   }
   
   /* Clear floats after the columns */
