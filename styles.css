@@ -52,3 +52,7 @@ ul {
     display: table;
     clear: both;
   }
+
+  #bitmoji1 {
+    float: right;
+  }
