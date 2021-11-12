@@ -14,7 +14,6 @@
 
 html {
   font-family: "Montserrat";
-  background-color: rgb(231, 209, 175);
 }
 
 ul {
@@ -40,4 +39,16 @@ ul {
   /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #111;
+  }
+
+  .column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
   }
