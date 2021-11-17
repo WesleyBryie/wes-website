@@ -12,6 +12,6 @@
          url('../fonts/montserrat.svg#Montserrat') format('svg'); /* Legacy iOS */
   }
 
-html {
+html body p #montserrat .montserrat {
     font-family: "Montserrat";
 }
