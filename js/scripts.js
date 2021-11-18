@@ -24,12 +24,10 @@ else {
 function isDomainCorrect() {
     if (domain = "wesbryie") {
 console.log("This websites javascript code says that it is correct.");
-stop();
 }
     
 else {
     console.log("I SEE YOU.");
-    stop();
 }
 }
 
