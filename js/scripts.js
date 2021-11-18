@@ -8,27 +8,3 @@
 
 console.log("Copyright *my code only, anything that is not my code is published and copyrighted by their respective owners* Wesley Bryie, 2021.");
 console.log("This website was designed and published to https://wesbryie.cf/. If you see it on a domain that is not wesbryie.cf please contact me at wesleybryie@protonmail.com.");
-
-var firstDot = window.location.hostname.indexOf('.');
-var tld = ".cf";
-var isSubdomain = firstDot < window.location.hostname.indexOf(tld);
-var domain;
-
-if (isSubdomain) {
-    domain = window.location.hostname.substring(firstDot == -1 ? 0 : firstDot + 1);
-}
-else {
-  domain = window.location.hostname;
-}
-
-function isDomainCorrect() {
-    if (domain = "wesbryie") {
-console.log("Thank you for using wesbryie.cf.");
-}
-    
-else {
-    console.log("why uh, why ya doin that? why ya taking my code?");
-}
-}
-
-isDomainCorrect();
