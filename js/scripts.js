@@ -9,7 +9,12 @@
 console.log("Copyright *my code only, anything that is not my code is published and copyrighted by their respective owners* Wesley Bryie, 2021.");
 console.log("This website was designed and published to https://wesbryie.cf/. If you see it on a domain that is not wesbryie.cf please contact me at wesleybryie@protonmail.com.");
 
-if (window.location.hostname = "beta.wesbryie.cf")
+if (window.location.hostname = "beta.wesbryie.cf") {
 console.log("This websites javascript code says that it is correct.");
+stop();
+}
     
-else console.log("I SEE YOU.");
+else {
+    console.log("I SEE YOU.");
+    stop();
+}
