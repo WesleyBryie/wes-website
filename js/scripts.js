@@ -5,3 +5,5 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+
+console.log("Copyright *my code only, anything that is not my code is published and copyrighted by their respective owners* Wesley Bryie, 2021.")
