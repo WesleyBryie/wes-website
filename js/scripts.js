@@ -23,11 +23,11 @@ else {
 
 function isDomainCorrect() {
     if (domain = "wesbryie") {
-console.log("This websites javascript code says that it is correct.");
+console.log("Thank you for using wesbryie.cf.");
 }
     
 else {
-    console.log("I SEE YOU.");
+    console.log("why uh, why ya doin that? why ya taking my code?");
 }
 }
 
