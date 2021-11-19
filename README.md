@@ -5,4 +5,4 @@ Please visit it at wesbryie.cf, you can also visit wesleybryie.vercel.app but th
 Huge thanks to vercel for offering their services.
 
 This website is licenced under the GNU GPL v3 licence.
-Learn more about the different open-source licences you can use here[https://choosealicence.com]
+Learn more about the different open-source licences you can use [here](https://choosealicence.com)
