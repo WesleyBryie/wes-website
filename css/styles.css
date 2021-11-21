@@ -11286,3 +11286,7 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+/* USER ADDED! ANYTHING ABOVE THIS IS BOOTSTRAP CSS! */
+#bitmoji1 {
+  float: right;
+}
