@@ -8,7 +8,7 @@ body {
     float: right;
   }
 
-#web-desktopview #discord {
+img {
     float: left;
     height: 100px; 
     width: inherit;
