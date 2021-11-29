@@ -10,6 +10,6 @@ body {
 
 #web-desktopview #discord {
     float: left;
-    height: 10%; 
+    height: 100; 
     width: inherit;
 }
