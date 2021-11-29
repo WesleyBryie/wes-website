@@ -7,3 +7,7 @@ body {
 #bitmoji1 {
     float: right;
   }
+
+#web-desktopview #discord {
+    float: left;
+}
